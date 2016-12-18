@@ -1,8 +1,7 @@
 package cn.edu.gdmec.a07150841.work2;
 
-import android.os.PersistableBundle;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 
 public class MainActivity extends AppCompatActivity {
@@ -16,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onStart() {
         super.onStart();
-        Log.d("work2","出现了");
+        Log.d("work2","aa 出现了");
     }
 
     @Override
